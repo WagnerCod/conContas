@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@300&family=Press+Start+2P&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0 auto;
+}
+
+header h1 {
+    margin: 0 auto;
+    padding: 40px 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table {
+    text-align: center;
+}
+
+.svg {
+    width: 40px;
+}
+
+.total {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F25C05;
+    width: 100px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+table{
+  background-color: #052440;
+}
+tr,td{
+    color: white;
+}
+tbody{
+    background-color: #052440;
+}
+
+button {
+    background-color: #005C53;
+    border:#005C53;
+    border-radius: 4px;
+    margin-left: 50px;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+    
+
+}
